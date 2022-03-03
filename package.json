@@ -22,7 +22,8 @@
     "eject": "react-scripts eject",
     "test:unit": "jest --watchAll=true",
     "test:unit:coverage": "npm run test:unit -- --watchAll=false --coverage",
-    "lint": "eslint ./src --ext .jsx,.js,.ts,.tsx --fix"
+    "lint": "eslint ./src --ext .jsx,.js,.ts,.tsx --fix",
+    "prettier": "prettier --write \"src/**/*.{ts,tsx}\""
   },
   "browserslist": {
     "production": [
@@ -51,6 +52,7 @@
     "eslint-plugin-react-hooks": "4.3.0",
     "jest": "27.5.1",
     "jest-fetch-mock": "3.0.3",
+    "prettier": "2.5.1",
     "ts-jest": "27.1.3"
   }
 }
