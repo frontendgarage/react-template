@@ -44,7 +44,6 @@
     "@typescript-eslint/parser": "5.13.0",
     "camelcase": "6.3.0",
     "eslint": "8.10.0",
-    "eslint-config-airbnb": "19.0.4",
     "eslint-import-resolver-typescript": "2.5.0",
     "eslint-plugin-import": "2.25.4",
     "eslint-plugin-jsx-a11y": "6.5.1",
