@@ -1,2 +1,5 @@
 *.css
 *.svg
+package.json
+package-lock.json
+tsconfig.json
